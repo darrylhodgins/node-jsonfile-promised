@@ -1,0 +1,18 @@
+{
+  "name": "jsonfile-promised",
+  "version": "0.0.1",
+  "description": "Easily read/write JSON files, with promises.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:darrylhodgins/node-jsonfile-promised.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darryl Hodgins <darrylh@darrylh.ca>",
+  "license": "MIT",
+  "dependencies": {
+    "jsonfile": "^2.3.1"
+  }
+}
